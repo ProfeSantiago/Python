@@ -1,0 +1,2 @@
+Primera linea del archivo
+Segunda linea del archivo. Texto agregado al final del archivo
